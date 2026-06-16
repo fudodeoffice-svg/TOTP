@@ -25,7 +25,7 @@ A state-of-the-art, client-side Time-Based One-Time Password (TOTP) generator an
   - Ambient floating glowing neon orbs that float smoothly in the background.
   - Interactive background particle canvas emitting customizable blue-purple elements.
   - Glassmorphic panels with sliding radiant borders on hover.
-- ⚙️ **On-the-Fly Configuration:** Set custom service issuers (e.g., *Zynmeet*) and account emails. Secrets are generated in cryptographic Base32 format instantly.
+- ⚙️ **On-the-Fly Configuration:** Set custom service issuers (e.g., *Fudode*) and account emails. Secrets are generated in cryptographic Base32 format instantly.
 - 📱 **Real-time Scan & Sync:** Outputs standard Key URI formatted QR codes using `QRCode.js`, readable by standard authenticator apps (Google Authenticator, Authy, Microsoft Authenticator, etc.).
 - ⏳ **Interactive Countdown Ring:**
   - Standard 30-second token refresh intervals.
@@ -124,6 +124,6 @@ While AuthGuard provides an exceptional playground for understanding and configu
 
 <div align="center">
 
-*Crafted with ❤️ by **Krishna***
+*Crafted with ❤️ by **[Krishna](https://github.com/krishnaxsys)** • Connect on **[LinkedIn](https://in.linkedin.com/in/krishna-kumar-verma-23070a260)***
 
 </div>
